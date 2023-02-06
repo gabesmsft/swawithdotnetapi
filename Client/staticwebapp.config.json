@@ -1,8 +1,0 @@
-{
-    "routes": [
-	{
-            "route": "/",
-            "redirect": "https://microsoft.com"
-        }
-    ]
-}
